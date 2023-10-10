@@ -36,7 +36,7 @@ p {
     font-size: 36px;
     font-family: 'Roboto Slab', serif;
     font-style: italic;
-    font-weight: 300;
+    font-weight: 600;
     line-height: 26px; 
 }
 .btn {
@@ -49,7 +49,7 @@ p {
     font-size: 36px;
     font-family: 'Roboto Slab', serif;
     font-style: italic;
-    font-weight: 300;
+    font-weight: 600;
     line-height: 26px;
     border-radius: 0%;
 }
